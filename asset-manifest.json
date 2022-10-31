@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EmranBoking/static/css/main.faf79631.css",
+    "main.js": "/EmranBoking/static/js/main.ff28dd37.js",
+    "static/js/787.22cf53f4.chunk.js": "/EmranBoking/static/js/787.22cf53f4.chunk.js",
+    "index.html": "/EmranBoking/index.html",
+    "main.faf79631.css.map": "/EmranBoking/static/css/main.faf79631.css.map",
+    "main.ff28dd37.js.map": "/EmranBoking/static/js/main.ff28dd37.js.map",
+    "787.22cf53f4.chunk.js.map": "/EmranBoking/static/js/787.22cf53f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faf79631.css",
+    "static/js/main.ff28dd37.js"
+  ]
+}
