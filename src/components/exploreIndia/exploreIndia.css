@@ -1,0 +1,29 @@
+.explore{
+    width: 100%;
+    max-width: 1024px;
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.exploreItem{
+    flex: 1;
+    border-radius: 2px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.exploreImg{
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+
+.exploreTitle>h1{
+    font-size: 18px;
+}
+
+.exploreTitle>h3{
+    font-size: 14px;
+    font-weight: 300;
+}

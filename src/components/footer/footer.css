@@ -1,0 +1,35 @@
+.footer{
+    width: 100%;
+    width: 1024px;
+    font-size: 13px;
+}
+
+.flist{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.flists{
+    list-style: none;
+    padding: 0;
+}
+
+.flistItem{
+    margin-bottom: 10px;
+    color: #185cbc;
+    cursor: pointer;
+    font-weight: 400;
+}
+
+.extranet{
+    text-align: center;
+    color: #0071c2;
+    margin-bottom: 30px;
+}
+
+.fText{
+    font-size: 12px;
+    margin-bottom: 20px;
+}

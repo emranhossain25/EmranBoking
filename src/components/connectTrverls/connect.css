@@ -1,0 +1,19 @@
+.connect{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1024px;
+    position: relative;
+    gap: 20px;
+}
+
+.connectItem{
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    gap: 0px;
+}
+
+.conectIMg{
+    width: 100%;
+}

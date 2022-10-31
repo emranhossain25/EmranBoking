@@ -1,0 +1,30 @@
+.quicklist{
+    width: 100%;
+    max-width: 1024px;
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.quicklistItem{
+    flex: 1;
+    overflow: hidden;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+
+.quickItmg{
+    height: 150px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.quickTitle>h1{
+    font-size: 18px;
+}
+
+.quickTitle>h3{
+    font-size: 14px;
+    font-weight: 300;
+}
